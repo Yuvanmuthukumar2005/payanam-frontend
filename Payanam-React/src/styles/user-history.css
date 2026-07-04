@@ -1,0 +1,12 @@
+/* src/styles/user-history.css */
+.user-history {
+  font-family: 'Poppins', sans-serif;
+}
+
+.user-history .card {
+  border-radius: 12px;
+}
+
+.user-history .badge {
+  font-size: 0.9rem;
+}

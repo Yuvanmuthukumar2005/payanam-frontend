@@ -1,0 +1,17 @@
+/* src/styles/outstation.css */
+.outstation-section {
+  font-family: 'Poppins', sans-serif;
+}
+
+.outstation-section h2 {
+  color: #111;
+}
+
+.outstation-section h4 {
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.outstation-section p {
+  color: #555;
+}

@@ -1,0 +1,16 @@
+/* src/styles/admin-dashboard.css */
+.admin-dashboard {
+  font-family: 'Poppins', sans-serif;
+}
+
+.admin-dashboard .card {
+  border-radius: 12px;
+}
+
+.admin-dashboard h5 {
+  color: #555;
+}
+
+.admin-dashboard .badge {
+  font-size: 0.9rem;
+}

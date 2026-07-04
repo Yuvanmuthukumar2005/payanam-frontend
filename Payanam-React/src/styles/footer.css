@@ -1,0 +1,28 @@
+/* src/styles/footer.css */
+.footer {
+  font-family: 'Poppins', sans-serif;
+}
+
+.footer h5 {
+  color: #ff9800;
+}
+
+.footer-link {
+  color: #ddd;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #ff9800;
+}
+
+.social-icons i {
+  color: #fff;
+  font-size: 1.3rem;
+  transition: color 0.3s ease;
+}
+
+.social-icons i:hover {
+  color: #ffc107; /* Bootstrap warning yellow */
+}
+

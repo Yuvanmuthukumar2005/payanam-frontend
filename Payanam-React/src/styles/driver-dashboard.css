@@ -1,0 +1,22 @@
+/* src/styles/driver-dashboard.css */
+.driver-dashboard {
+  font-family: 'Poppins', sans-serif;
+}
+
+.driver-dashboard .card {
+  border-radius: 12px;
+}
+
+.driver-dashboard h5 {
+  color: #555;
+}
+
+.driver-dashboard .badge {
+  font-size: 0.9rem;
+}
+
+/* Force brand text to yellow */
+.custom-navbar .navbar-brand {
+  color: #f37005 !important; /* Bootstrap warning yellow */
+  font-weight: 700;
+}

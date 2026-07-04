@@ -1,0 +1,23 @@
+/* src/styles/contact.css */
+.contact-section {
+  font-family: 'Poppins', sans-serif;
+}
+
+.contact-section h2 {
+  color: #111;
+}
+
+.contact-section .lead {
+  color: #555;
+}
+
+.social-icons a {
+  color: #ffc107;
+  margin: 0 10px;
+  font-size: 20px;
+  transition: 0.3s;
+}
+
+.social-icons a:hover {
+  color: #111;
+}

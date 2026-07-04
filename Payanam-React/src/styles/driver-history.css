@@ -1,0 +1,12 @@
+/* src/styles/driver-history.css */
+.driver-history {
+  font-family: 'Poppins', sans-serif;
+}
+
+.driver-history .card {
+  border-radius: 12px;
+}
+
+.driver-history .badge {
+  font-size: 0.9rem;
+}

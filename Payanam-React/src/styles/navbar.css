@@ -1,0 +1,46 @@
+/* src/styles/navbar.css */
+.navbar {
+  font-family: 'Poppins', sans-serif;
+}
+
+.custom-navbar {
+  background-color: #f2b90e; /* black background */
+}
+
+.custom-navbar .navbar-brand {
+  text-decoration: none;
+  font-size: xx-large;
+  font-weight: bolder;
+  
+}
+
+.custom-navbar .nav-link {
+  color: rgba(0, 0, 0, 0.9);
+  font-size: larger;
+}
+
+.custom-navbar .nav-link:hover {
+  color: #ff5a07;
+}
+
+/* username and logout styling on the right */
+.navbar-username {
+  color: #0b0b0a;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* make logout button subtle and consistent */
+.logout-btn {
+  border-radius: 8px;
+  padding: 6px 10px;
+  background: transparent;
+  border: 1px solid rgba(255,255,255,0.15);
+  color: #322f2f;
+}
+
+.logout-btn:hover {
+  background: rgba(255,193,7,0.12);
+  border-color: #ffc107;
+  color: #50504d;
+}

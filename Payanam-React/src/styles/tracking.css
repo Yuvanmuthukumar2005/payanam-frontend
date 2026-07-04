@@ -1,0 +1,11 @@
+/* src/styles/tracking.css */
+.tracking-section {
+  font-family: 'Poppins', sans-serif;
+}
+
+.tracking-map {
+  height: 500px;
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}

@@ -1,0 +1,9 @@
+/* src/styles/about.css */
+.about-section {
+  font-family: 'Poppins', sans-serif;
+}
+
+.about-imgs img {
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
